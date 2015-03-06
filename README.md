@@ -19,7 +19,7 @@ Atlas是由 Qihoo 360, Web平台部基础架构团队开发维护的一个基于
  
  
 ###查阅网站
-http://wowubuntu.com/markdown/
-https://github.com/Qihoo360/Atlas/wiki/Atlas%E7%9A%84%E5%AE%89%E8%A3%85
-https://github.com/Qihoo360/Atlas/wiki/Atlas%E9%83%A8%E5%88%86%E9%85%8D%E7%BD%AE%E5%8F%82%E6%95%B0%E5%8F%8A%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3
-https://github.com/Qihoo360/Atlas/wiki/Atlas%E7%9A%84%E6%9E%B6%E6%9E%84
+[Markdown 语法说明](http://wowubuntu.com/markdown/)  
+[Atlas的安装](https://github.com/Qihoo360/Atlas/wiki/Atlas%E7%9A%84%E5%AE%89%E8%A3%85
+https://github.com/Qihoo360/Atlas/wiki/Atlas%E9%83%A8%E5%88%86%E9%85%8D%E7%BD%AE%E5%8F%82%E6%95%B0%E5%8F%8A%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3)  
+[Atlas的架构](https://github.com/Qihoo360/Atlas/wiki/Atlas%E7%9A%84%E6%9E%B6%E6%9E%84)
