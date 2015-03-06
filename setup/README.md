@@ -10,3 +10,4 @@ yum update openssl
 ````shell
 vi /usr/local/mysql-proxy/conf/test.cnf
 ````
+![修改之后](https://raw.githubusercontent.com/piggsoft/Atlas-reseach/master/res/1.png)
