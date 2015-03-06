@@ -12,4 +12,6 @@ Atlas是由 Qihoo 360, Web平台部基础架构团队开发维护的一个基于
 * **Distributor ID**: CentOS
 * **Description**:    CentOS release 6.3 (Final)
 * **Release**:        6.3
-* **Codename**:       Final
+* **Codename**:       Final  
+**MySQL**
+  **Version**: 5.6.19
