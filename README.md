@@ -3,7 +3,7 @@ Atlas是由 Qihoo 360, Web平台部基础架构团队开发维护的一个基于
 #github 地址
 https://github.com/Qihoo360/Atlas
 #MySQL 中间件介绍
-http://www.guokr.com/blog/475765/
+[mysql中间件研究（Atlas，cobar，TDDL）](http://www.guokr.com/blog/475765/)
 #环境准备
 ##一台server
 * LSB Version:    :base-4.0-amd64:base-4.0-noarch:core-4.0-amd64:core-4.0-noarch:graphics-4.0-amd64:graphics-4.0-noarch:printing-4.0-amd64:printing-4.0-noarch
