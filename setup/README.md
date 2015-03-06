@@ -31,3 +31,15 @@ vi /usr/local/mysql-proxy/conf/test.cnf
 执行命令：mysql -h127.0.0.1 -P1234 -u用户名 -p密码，如果能连上则证明Atlas初步测试正常，可以再尝试发几条SQL语句看看执行结果是否正确。
 
 进入Atlas的管理界面的命令：mysql -h127.0.0.1 -P2345 -uuser -ppwd，进入后执行:select * from help;查看管理DB的各类命令。
+
+##遇到的问题##
+* 使用mysql -h127.0.0.1 -P1234 -u用户名 -p密码，可以进入client环境，但是执行sql出现错误。
+    ERROR 2006 (HY000): MySQL server has gone away    
+    No connection. Trying to reconnect...  
+    Connection id:4  
+    Current database: *** NONE ***  
+    ERROR 2013 (HY000): Lost connection to MySQL server during query  
+查看log发现错误原因是：
+````(critical) proxy-plugin.c.1450: I have no server backend, closing connection````  
+尝试将/usr/local/mysql-proxyd/conf/test.cnf中的backendserver地址改为内网IP，问题解决。  
+具体的原因还需查明
