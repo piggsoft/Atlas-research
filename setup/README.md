@@ -42,4 +42,7 @@ vi /usr/local/mysql-proxy/conf/test.cnf
 查看log发现错误原因是：
 ````(critical) proxy-plugin.c.1450: I have no server backend, closing connection````  
 尝试将/usr/local/mysql-proxyd/conf/test.cnf中的backendserver地址改为内网IP，问题解决。  
-具体的原因还需查明
+具体的原因还需查明  
+在好友的帮助下，查明的原因。 
+在mysql中用户配置的max_user_connections, max_connections配置比较小，并发线程数据配置太高。  
+需要修改这2个参数。
