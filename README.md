@@ -15,9 +15,11 @@ Atlas是由 Qihoo 360, Web平台部基础架构团队开发维护的一个基于
 * **Codename**:       Final  
 
 **MySQL**
-  **Version**: 5.6.19
+  **Version**: 5.6.19  
  
- 
+ [环境设定](https://github.com/piggsoft/Atlas-research/tree/master/setup)  
+ [MySQL主从设定](https://github.com/piggsoft/Atlas-research/tree/master/config)  
+
 ###查阅网站
 [Markdown 语法说明](http://wowubuntu.com/markdown/)  
 [Atlas的安装](https://github.com/Qihoo360/Atlas/wiki/Atlas%E7%9A%84%E5%AE%89%E8%A3%85)  
