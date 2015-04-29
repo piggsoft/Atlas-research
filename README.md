@@ -1,4 +1,12 @@
 # Atlas-research
+本项目旨在帮助正在research或者在使用中遇到问题的人。  
+同时也希望大家能将自己遇到的问题和解决办法push到项目中。
+push方法，fork这个项目。在question文件夹中加入你的md。
+然后在首页的md的[Question](#question)中加入你的问题
+````
+ [your question name](your question href) //href 使用相对路径 like question/xx.md
+````
+#Atlas 介绍
 Atlas是由 Qihoo 360, Web平台部基础架构团队开发维护的一个基于MySQL协议的数据中间层项目。它是在mysql-proxy 0.8.2版本的基础上，对其进行了优化，增加了一些新的功能特性。360内部使用Atlas运行的mysql业务，每天承载的读写请求数达几十亿条。  
 ####Atlas sharding####
 [Atlas sharding](sharding/readme.md)看这里
