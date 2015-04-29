@@ -47,3 +47,5 @@ Atlas是由 Qihoo 360, Web平台部基础架构团队开发维护的一个基于
 
 #Question
 * [ERROR 2006 (HY000): MySQL server has gone away](question/01.md)
+* [一主三从，其中某个从的连接数非常多，是怎么回事](https://github.com/Qihoo360/Atlas/issues/22)
+* [That had some errors in Mac Air compiled the Atlas from source code](https://github.com/Qihoo360/Atlas/issues/19)
