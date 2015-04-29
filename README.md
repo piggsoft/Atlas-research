@@ -2,7 +2,8 @@
 本项目旨在帮助正在research或者在使用中遇到问题的人。  
 同时也希望大家能将自己遇到的问题和解决办法push到项目中。  
 push方法，fork这个项目。在question文件夹中加入你的md。  
-然后在首页的md的[Question](#question)中加入你的问题
+然后在首页的md的[Question](#question)中加入你的问题，然后push你的文件。  
+请在md第一行加上您的个人信息。让大家记住你的贡献。
 ````
  [your question name](your question href) //href 使用相对路径 like question/xx.md
 ````
