@@ -9,11 +9,8 @@ push方法，fork这个项目。在question文件夹中加入你的md。
  [your question name](your question href) //href 使用相对路径 like question/xx.md
  
  md加入个人信息
- ````java
-  /**
-   * @author piggsoft@163.com
-  */
- ````
+ ####author piggsoft@163.com
+ ####date 2015-04-29
 ````
 #Atlas 介绍
 Atlas是由 Qihoo 360, Web平台部基础架构团队开发维护的一个基于MySQL协议的数据中间层项目。它是在mysql-proxy 0.8.2版本的基础上，对其进行了优化，增加了一些新的功能特性。360内部使用Atlas运行的mysql业务，每天承载的读写请求数达几十亿条。  
