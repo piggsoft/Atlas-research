@@ -11,7 +11,8 @@ Atlas以表为单位sharding, 同一个数据库内可以同时共有sharding的
 
 关于垂直切分与水平切分的区别与优缺点, 在这里就不详细解释了.
 
+````javascript
 上面这段摘录于官方文档，想要看详细的请戳下面的介绍  
-
+````
 [分支地址](https://github.com/Qihoo360/Atlas/tree/sharding)  
 [分支安装介绍](https://github.com/Qihoo360/Atlas/wiki/Atlas-Sharding)
