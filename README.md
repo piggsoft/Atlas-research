@@ -40,4 +40,4 @@ Atlas是由 Qihoo 360, Web平台部基础架构团队开发维护的一个基于
 * [一主三从，其中某个从的连接数非常多，是怎么回事](https://github.com/Qihoo360/Atlas/issues/22)
 * [That had some errors in Mac Air compiled the Atlas from source code](https://github.com/Qihoo360/Atlas/issues/19)
 * [字符集的问题](https://github.com/Qihoo360/Atlas/issues/3)
-* [tlas是不支持prepare statement吗](https://github.com/Qihoo360/Atlas/issues/26)
+* [Atlas是不支持prepare statement吗](https://github.com/Qihoo360/Atlas/issues/26)
